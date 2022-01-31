@@ -1,10 +1,10 @@
 # Fdb version 3
-["xdvipdfmx"] 1643589941 "resume.xdv" "resume.pdf" "resume" 1643589941
-  "resume.xdv" 1643589941 38604 10ce149da46243bdfcb869dd97884e6c "xelatex"
+["xdvipdfmx"] 1643594921 "resume.xdv" "resume.pdf" "resume" 1643594922
+  "resume.xdv" 1643594921 37684 0a193c9b0fbad909ed65b93b18c4dcd8 "xelatex"
   (generated)
   "resume.pdf"
-["xelatex"] 1643589939 "/Users/griffith/Downloads/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1643589941
-  "/Users/griffith/Downloads/Awesome-CV/examples/resume.tex" 1643588775 3658 8663697b4fc7c1a1c51881cf7ce9ff6a ""
+["xelatex"] 1643594920 "/Users/griffith/Downloads/Awesome-CV/examples/resume.tex" "resume.xdv" "resume" 1643594922
+  "/Users/griffith/Downloads/Awesome-CV/examples/resume.tex" 1643594055 3660 8afd918e413866f5ee46f8ae30abb34e ""
   "/usr/local/texlive/2021/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2021/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm" 1136768653 1528 abec98dbc43e172678c11b3b9031252a ""
@@ -170,17 +170,17 @@
   "/usr/local/texlive/2021/texmf-dist/web2c/texmf.cnf" 1616443989 39972 3d6bb4d9d719e93193fa020b58adf5d4 ""
   "/usr/local/texlive/2021/texmf-var/web2c/xetex/xelatex.fmt" 1642003015 5093938 fa6e6e05473ba65ed5043bc8c5a51a95 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
-  "awesome-cv.cls" 1643589939 30075 e5cefebcf9dad0b2a2613307385802e1 ""
-  "resume.aux" 1643589941 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
-  "resume.out" 1643589941 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
-  "resume.tex" 1643588775 3658 8663697b4fc7c1a1c51881cf7ce9ff6a ""
-  "resume/education.tex" 1643585126 923 6d99f6676e9c60f163c6a255227dc527 ""
-  "resume/experience.tex" 1643585781 1462 7c5b8c7c9681d501a4c7bfdf168fbd58 ""
-  "resume/leadership.tex" 1643588999 1272 aa6510e42dc0f529d963474652a1ce77 ""
-  "resume/projects.tex" 1643586374 3312 61b255c25b28a5e7169b7e4276666cd4 ""
-  "resume/skills.tex" 1643588893 882 90090ea11b3e23add0375d49c4f328e9 ""
+  "awesome-cv.cls" 1643594919 30950 50cce4a5e84cfbf5715a474647e45bc5 ""
+  "resume.aux" 1643594921 652 27234ec14a0cd9df31d7cc62edcdbc23 "xelatex"
+  "resume.out" 1643594921 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+  "resume.tex" 1643594055 3660 8afd918e413866f5ee46f8ae30abb34e ""
+  "resume/education.tex" 1643592006 923 6d99f6676e9c60f163c6a255227dc527 ""
+  "resume/experience.tex" 1643592006 1462 7c5b8c7c9681d501a4c7bfdf168fbd58 ""
+  "resume/leadership.tex" 1643592006 1272 aa6510e42dc0f529d963474652a1ce77 ""
+  "resume/projects.tex" 1643592006 3312 61b255c25b28a5e7169b7e4276666cd4 ""
+  "resume/skills.tex" 1643594247 829 832ac76f2e8f2d2ccd3dfab990736df1 ""
   (generated)
+  "resume.log"
+  "resume.xdv"
   "resume.out"
   "resume.aux"
-  "resume.xdv"
-  "resume.log"
