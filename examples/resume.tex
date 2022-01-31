@@ -41,10 +41,16 @@
 % \definecolor{lighttext}{HTML}{999999}
 
 % Set false if you don't want to highlight section with awesome color
-\setbool{acvSectionColorHighlight}{true}
+\setbool{acvSectionColorHighlight}{false}
 
 % If you would like to change the social information separator from a pipe (|) to something else
 \renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+% \def\faMobile{\ignorespaces}
+% \def\faEnvelope{\ignorespaces}
+% \def\faHome{\ignorespaces}
+% \def\faGithub{\ignorespaces}
+% \def\faLinkedin{\ignorespaces}
 
 
 %-------------------------------------------------------------------------------
@@ -53,16 +59,14 @@
 %-------------------------------------------------------------------------------
 % Available options: circle|rectangle,edge/noedge,left/right
 % \photo[rectangle,edge,right]{./examples/profile}
-\name{Byungjin}{Park}
-\position{Software Architect{\enskip\cdotp\enskip}Security Expert}
-\address{42-8, Bangbae-ro 15-gil, Seocho-gu, Seoul, 00681, Rep. of KOREA}
+\name{Griffith}{Baker}
 
-\mobile{(+82) 10-9030-1843}
-\email{posquit0.bj@gmail.com}
+\mobile{(704) 661-2984}
+\email{gmbaker3@ncsu.edu}
 %\dateofbirth{January 1st, 1970}
-\homepage{www.posquit0.com}
-\github{posquit0}
-\linkedin{posquit0}
+% \homepage{griffithbaker.com}
+\github{postsdesert}
+\linkedin{griffithbaker}
 % \gitlab{gitlab-id}
 % \stackoverflow{SO-id}{SO-name}
 % \twitter{@twit}
@@ -75,7 +79,7 @@
 % \googlescholar{googlescholar-id}{}
 % \extrainfo{extra information}
 
-\quote{``Be the change that you want to see in the world."}
+%\quote{``Be the change that you want to see in the world."}
 
 
 %-------------------------------------------------------------------------------
@@ -88,8 +92,8 @@
 % Print the footer with 3 arguments(<left>, <center>, <right>)
 % Leave any of these blank if they are not needed
 \makecvfooter
-  {\today}
-  {Byungjin Park~~~·~~~Résumé}
+  {}
+  {Griffith Baker~~~·~~~Résumé}
   {\thepage}
 
 
@@ -97,14 +101,12 @@
 %	CV/RESUME CONTENT
 %	Each section is imported separately, open each file in turn to modify content
 %-------------------------------------------------------------------------------
-\input{resume/summary.tex}
-\input{resume/experience.tex}
-\input{resume/honors.tex}
-\input{resume/presentation.tex}
-\input{resume/writing.tex}
-\input{resume/committees.tex}
+%\input{resume/summary.tex}
 \input{resume/education.tex}
-\input{resume/extracurricular.tex}
+\input{resume/experience.tex}
+\input{resume/skills.tex}
+\input{resume/projects.tex}
+\input{resume/leadership.tex}
 
 
 %-------------------------------------------------------------------------------
